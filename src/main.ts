@@ -26,3 +26,5 @@ console.log("esto es de prueba para master");
 console.log("asdad hola we");
 
 console.log(3+4);
+
+console.log(3*9);
