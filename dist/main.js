@@ -11,3 +11,6 @@ profesor = new profesor_1.Profesor("Mark", "Zuckerberg", "Programación orientad
 profesor.saludar();
 profesor.ensenar();
 console.log("hola man");
+/*este pedazo será para pueba */
+var numero1, numero2;
+numero1 = 50, numero2 = 20;
