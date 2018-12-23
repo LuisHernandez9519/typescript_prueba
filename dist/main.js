@@ -10,3 +10,6 @@ var profesor;
 profesor = new profesor_1.Profesor("Mark", "Zuckerberg", "Programación orientada a objetos");
 profesor.saludar();
 profesor.ensenar();
+/*este pedazo será para pueba */
+var numero1, numero2;
+numero1 = 50, numero2 = 20;

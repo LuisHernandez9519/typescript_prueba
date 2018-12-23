@@ -11,3 +11,8 @@ let alumno: Persona;
  profesor = new Profesor("Mark", "Zuckerberg", "Programación orientada a objetos");
  (profesor as Profesor).saludar();
  (profesor as Profesor).ensenar();
+
+ /*este pedazo será para pueba */
+ let numero1:number, numero2: number;
+ numero1 = 50, numero2 = 20;
+
