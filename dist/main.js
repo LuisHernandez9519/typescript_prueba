@@ -10,3 +10,4 @@ var profesor;
 profesor = new profesor_1.Profesor("Mark", "Zuckerberg", "Programación orientada a objetos");
 profesor.saludar();
 profesor.ensenar();
+console.log("hola man");

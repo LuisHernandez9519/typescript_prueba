@@ -11,3 +11,4 @@ let alumno: Persona;
  profesor = new Profesor("Mark", "Zuckerberg", "Programación orientada a objetos");
  (profesor as Profesor).saludar();
  (profesor as Profesor).ensenar();
+console.log("hola man");
