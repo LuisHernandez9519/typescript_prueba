@@ -14,3 +14,6 @@ console.log("hola man");
 /*este pedazo será para pueba */
 var numero1, numero2;
 numero1 = 50, numero2 = 20;
+/*
+*/
+console.log("esto es de prueba para master");
